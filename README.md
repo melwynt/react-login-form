@@ -64,5 +64,5 @@ git remote -v
 
 ## Contact
 
-🐦 Twitter: [@melwyntee](https://twitter.com/melwyncode)<br>
+🐦 Twitter: [@melwyncode](https://twitter.com/melwyncode)<br>
 🧑‍💻 LinkedIn: [melwynturbant](https://www.linkedin.com/in/melwynturbant)
